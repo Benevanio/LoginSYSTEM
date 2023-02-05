@@ -33,10 +33,18 @@ Backend com NODE JS E MONGODB.
 Instale Test-Fron-end-VFlows com npm
 
 ```bash
-  git clone https://github.com/benetesla/Test-Fron-end-VFlows.git
-  npm install Test-Fron-end-VFlows
-  cd Test-Fron-end-VFlows
+  git clone https://github.com/benetesla/LoginSYSTEM.git
+  cd LoginSYSTEM
+  npm install LoginSYSTEM  
   npm star
+```
+InstaleS erver
+
+```bash
+  git clone https://github.com/benetesla/LoginSYSTEM.git
+  cd Server
+  npm install Server  
+  npm  run dev
 ```
     
 ## 🔗 Entre em contato comigo através dos seguintes meios:
