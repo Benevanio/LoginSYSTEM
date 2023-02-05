@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "4cf0b89a-8ade-43b9-9efa-75390d6c4196",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:9000/api/Users",
+    "url": "http://localhost:9000/api/Users",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-02-05T19:33:10.582Z",
+    "modified": "2023-02-05T19:46:45.428Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"firstName\": \"Benevanio\",\n  \"lastName\": \"Tesla\",\n  \"email\": \"BenevanioTesla930@gmail.com\",\n  \"password\": \"Teslalagahs25@\"\n  \n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
